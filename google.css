@@ -8,19 +8,19 @@ body{
   width: 100%;
   font-family: sans-serif;
 }
-.topbar{
+.items{
 display: flex;
 justify-content: flex-end;
 margin-top: 16px;
 text-decoration: none;
 }
-.topbar span a{
+.items span a{
   color: black;
 }
-.topbar span{
+.items span{
   margin-right: 16px;
 }
-.topbar .profile-img{
+.items .profile-img{
   width: 32px;
 }
 main{
